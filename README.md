@@ -40,9 +40,17 @@ python creator.py --directory /get/data/from/here
 Gives you the 5 most commonly occuring words from the data at --directory, in CSV format.
 Then puts your output in /send/output/to/here/file_name.csv
 
-### Prerequisites
+#### Prerequisites
 
 * [nltk](http://www.nltk.org/) - Natural Language Tool Kit
 ```
 pip install nltk
+```
+#### Todo
+The next iterations will extend the project with
+```
+Multi threading
+Different formats of data source
+Different formats of output
+Persist data from sources that have already been parsed
 ```
