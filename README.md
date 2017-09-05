@@ -11,6 +11,7 @@ Pass command line arguments to generate different outputs, in different styles, 
 
 ##### Flags
 
+```
 '--directory' --> directory path to retrieve source data from
               --> example '--directory /home/your_name/your_data'
 '--number'    --> to retrieve the top 'n' most common occurring words
@@ -25,23 +26,23 @@ Pass command line arguments to generate different outputs, in different styles, 
 '--result'    --> file name to put output in
               --> example '--result your_file_name'
               --> puts the results in 'your_file_name'
+```
               
 ###### Example
-
+```
 python creator.py --directory /get/data/from/here
                   --number 5
                   --format csv
                   --output /send/output/to/here
                   --result file_name
                   
+```
 Gives you the 5 most commonly occuring words from the data at --directory, in CSV format.
 Then puts your output in /send/output/to/here/file_name.csv
 
 ### Prerequisites
 
-....
-nltk
-
+* [nltk](http://www.nltk.org/) - Natural Language Tool Kit
+```
 pip install nltk
-
-....
+```
