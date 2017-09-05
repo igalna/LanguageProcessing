@@ -1,0 +1,12 @@
+I am a file with a number of sentences in.
+This is the second line of the file, hello!
+I used to be the second line! I got moved down because reasons.
+There is, though, an alternative which is to to try to reinvent the wheel. 
+- Why reinventing the wheel? - 
+Generally because it's a really good way to learn 
+(and sometimes just because the already-existing tool doesn't do exactly what you would like and/or the way you would like it)
+and the easiest way if you don't know or don't remember the perfect tool for your problem.
+I am all the way down here :(.
+Emoji sad face.
+This is the first sentence that you'll exclusively find in doc2.
+this is DOC2's second exclusive SENTENCE.
